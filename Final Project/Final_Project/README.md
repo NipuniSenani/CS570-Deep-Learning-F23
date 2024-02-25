@@ -10,6 +10,7 @@
 ### Outputs
 
 Drowsiness detect by counting number of eye flips in a given time period
+
 ![Screenshot 2024-02-25 at 5 37 05 PM](https://github.com/NipuniSenani/CS570-Deep-Learning-F23/assets/81766272/3f8aa65b-9b62-47a9-a7d0-b7a7c28bb14f)
 
 
